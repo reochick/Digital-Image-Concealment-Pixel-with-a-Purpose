@@ -78,5 +78,5 @@ The project uses **Least Significant Bit (LSB) steganography**, where:
 
 ## 👨‍💻 Author
 
-**Abhi**  
+**Sri Charan**  
 Student | AI&ML Engineer|  
